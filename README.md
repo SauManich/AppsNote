@@ -1,6 +1,3 @@
-# <div align="center">
-  <i class="fas fa-notes-medical" style="font-size: 3rem;"></i>
-</div>
 
 # Notapp's
 
